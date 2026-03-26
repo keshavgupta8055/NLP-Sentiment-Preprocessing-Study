@@ -187,14 +187,7 @@ We ran a **grid search** on the best pipeline (Exp5) over:
 
 ---
 
-## Deliverables
 
-| File | Description |
-|------|-------------|
-| `Final_NLP_Project.ipynb` | Full annotated notebook with all experiments and tuning |
-| `mini-project-report.pdf` | 3-page ACL two-column format research report |
-| `NLP-PPT.pptx` | 5-slide PowerPoint presentation |
-| `figs/*.png` | All 7 high-resolution plots |
 
 
 
